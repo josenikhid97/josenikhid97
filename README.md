@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @josenikhid97
+- 👋 Hi, I’m Jose Dasari
 - 👀 I’m interested in Machine Learning, Artificial intelligence , Deep learning and Data Sciences in the finance and health care sector.
 - 💞️ I’m looking to collaborate on the above mentioned fields 
 - 📫 How to reach me: joshchowdary007@gmail.com
